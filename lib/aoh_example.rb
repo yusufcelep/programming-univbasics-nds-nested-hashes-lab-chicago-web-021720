@@ -20,6 +20,8 @@ def literal_aoh
     occupation: "Live-in Staff"},
     {name: "Joelle van Dyne", 
     occupation: "Radio Personality"},
+    {name: "Pat Monteseian", 
+    occupation: "Staff"},
     
     ]
 end
